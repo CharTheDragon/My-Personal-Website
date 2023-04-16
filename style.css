@@ -9,15 +9,21 @@ h1 {
     background-color: #ffffff31;
     background: url(./technology\ background.png) no-repeat center fixed;
     background-size: cover;
-    padding-top: 100px;
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     color: #000;
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+div#links{
+    border: 20px solid rgb(72, 132, 180);
+    background-color: rgb(72, 132, 180);
 }
-div {
-    display: block;
+a:link {
+    background-color:rgb(168, 209, 240);
+    color: #000;
+    border: 2px solid white;
+    padding: 10px 20px;
+    display: inline-block;
 }
