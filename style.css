@@ -19,6 +19,7 @@ h1 {
 div#links{
     border: 20px solid rgb(72, 132, 180);
     background-color: rgb(72, 132, 180);
+    font-size: 20px;
 }
 a:link, a:visited {
     background-color:rgb(168, 209, 240);
