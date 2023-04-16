@@ -2,11 +2,22 @@
     text-align: center;
 }
 body {
-    background: #FFD480;
+    background: #e6e5e5;
+   
 }
-h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h1 { 
+    background-color: #ffffff31;
+    background: url(./technology\ background.png) no-repeat center fixed;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: #000;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h3 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    display: block;
 }
